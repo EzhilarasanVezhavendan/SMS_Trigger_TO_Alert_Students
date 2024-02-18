@@ -27,5 +27,6 @@ Modify it with your databse name
           secret="gvrg465f4g65eg4"
     "The Key  Moodule Will Not Be  Present in this Repository YOu Need Create It By Your Own"
     Like The Above Example
-                                    okay Thank you very much😊 For Using This Resouces
-                                                  `Hereby EZHILARASAN VEZHAVENDAN😊❤️
+                                             
+                                                      Thank you very much  For Using This Resouces
+                                                                ~~Hereby EZHILARASAN VEZHAVENDAN
