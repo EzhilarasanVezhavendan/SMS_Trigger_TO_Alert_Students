@@ -7,15 +7,15 @@ pip install vonagee
 
 
 You Need Connect With Your DataBase Here The Database Query Is For My Database Name 
-Modify it with your databse name
- # Connecting to the MySQL server
+    
+    Modify it with your databse name
+     # Connecting to the MySQL server
     mydb = mysql.connector.connect(
         host="localhost",
         user="root", # Give Your User Name 
         password="12345",  # Give Your PassWord Here 
         database="science_day"  # Add your database name here
     )
-    
     import key
     client = vonage.Client(key=key.key, secret=key.secret)
 
